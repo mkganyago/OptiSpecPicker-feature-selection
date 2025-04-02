@@ -1,4 +1,4 @@
-# OptiSpecPicker: Wine-Making Inspired Feature Selection for Remote Sensing  
+# OptiSpecPicker: Wine-Making Inspired Spectral Feature Selection for Remote Sensing  
 **Code and Data Repository**  
 
 This repository accompanies the manuscript *"OptiSpecPicker: A Wine-Making Inspired Algorithm for Spectral Feature Space Optimization in Remote Sensing Classification and Regression"* submitted to the *ISPRS Journal of Photogrammetry and Remote Sensing*. It provides code, data, and examples to reproduce the results and apply the algorithm to new datasets.  
@@ -20,7 +20,7 @@ This repository accompanies the manuscript *"OptiSpecPicker: A Wine-Making Inspi
 └── README.md                       # This file  
  
 ```markdown
-# OptiSpecPicker: Wine-Making Inspired Feature Selection for Remote Sensing  
+# OptiSpecPicker: Wine-Making Inspired Spectral Feature Selection for Remote Sensing  
 **Code and Data Repository**  
 
 This repository accompanies the manuscript *"OptiSpecPicker: A Wine-Making Inspired Algorithm for Feature Space Optimization in Remote Sensing Classification and Regression"* submitted to the *ISPRS Journal of Photogrammetry and Remote Sensing*. It provides code, data, and examples to reproduce the results and apply the algorithm to new datasets.  
